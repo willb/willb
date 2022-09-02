@@ -1,4 +1,12 @@
-### Hi there 👋
+The main theme of my professional career has been making unnecessarily difficult things easier so practitioners can focus on the difficult things that they're good at. [My PhD research](https://web.willbenton.com/research/dissertation/) produced static program analyses to make it easier for software engineers to exploit hardware parallelism, but I also developed a [framework to facilitate developing static program analyses](https://dl.acm.org/doi/10.1145/1273920.1273923).  In industry, I built on my program-analysis expertise to build a [distributed configuration management service](https://dl.acm.org/doi/10.1145/2063348.2063362) based on a semantic model of system configuration.  I have spent most of the last decade helping people make sense of data at scale by working in distributed data-processing and machine learning communities and by developing tools to make it easier to build and maintain machine learning systems.
+
+To get a more specific sense of what I'm interested in lately, check out [this _IEEE Software_ article](https://ieeexplore.ieee.org/document/9052717) and these conference talks:
+
+- ["Band-aids don't fix bullet holes:  repairing the broken promises of ubiquitous machine learning"](https://www.youtube.com/watch?v=A6M9TsznUjg)
+- ["Cloud-native machine learning systems at day two and beyond"](https://youtu.be/KHF405ZrtWc) (with Sophie Watson)
+- ["Building machine learning algorithms on Apache Spark:  scaling out and up"](https://vimeo.com/274419842)
+
+I also have [a weblog](https://chapeau.freevariable.com).
 
 <!--
 **willb/willb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
